@@ -1,0 +1,12 @@
+# Python virtual environment
+qr_scan/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# System Files
+Thumbs.db
+
